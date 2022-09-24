@@ -1,0 +1,20 @@
+node_modules/
+
+#Hardhat files
+cache
+artifacts
+build
+.env
+types
+hardhat.config.js
+
+# yarn cache
+# https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
+.pnp.*
+.yarn/*
+livetest/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions

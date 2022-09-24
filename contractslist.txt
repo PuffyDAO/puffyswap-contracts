@@ -1,0 +1,7 @@
+ETHPOW 
+factory - 0xFcEc44Adb7aeB7a464B0aB0a8F6077AFE36aA4D9
+router - 0x808aA76Cfcab361276fd740A27439D03A47a0419
+pairhash - 0x8133d337dedad670db0d72b5a5a264e3e4aedf06eb7833a134435df1e5d10c75
+weth - 0xce7726e4175240F4289F953Ea6Ccf854e429f2C1
+multicall-Real - 0x8dfe1f2508406ccf36d2dfabcffa05e286493a32
+multicall-puffyswap - 0x8dfe1f2508406ccf36d2dfabcffa05e286493a32
